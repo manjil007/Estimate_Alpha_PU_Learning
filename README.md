@@ -19,15 +19,15 @@ pip install -r requirements.txt
 ```
 
 ### 3. Install PULSNAR
-Follow the official installation guide provided at the [PULSNAR GitHub repository](https://github.com/JeremyGT/PULSNAR). This may include:
+Follow the official installation guide provided at the [PULSNAR GitHub repository](https://github.com/unmtransinfo/PULSNAR). This may include:
 ```bash
-git clone https://github.com/JeremyGT/PULSNAR.git
+git clone https://github.com/unmtransinfo/PULSNAR.git
 cd PULSNAR
 pip install .
 ```
 
 ### 4. Install IUPred2A
-Download and install IUPred2A from its [official GitHub repository](https://github.com/menchelab/IUPred2A). Follow the installation steps to ensure the CLI tools like `iupred2a.py` are executable and available in your `$PATH`.
+Download and install IUPred2A from its [official GitHub repository](https://github.com/cbalbin-bio/iupred-parser). Follow the installation steps to ensure the CLI tools like `iupred2a.py` are executable and available in your `$PATH`.
 
 ---
 
@@ -65,4 +65,4 @@ All scripts and notebooks are numbered (e.g., `1_extract_features.py`, `2_run_pu
 
 ## 📞 Contact
 
-For questions or contributions, please contact [Your Name] at [your.email@example.com].
+For questions or contributions, please contact Manjil Pradhan at [mpradhan@unm.edu or pradhanmanjil292@gmail.com].
