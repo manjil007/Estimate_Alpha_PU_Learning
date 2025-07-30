@@ -8,8 +8,8 @@ This project applies **Positive and Unlabeled Learning (PU Learning)** technique
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/manjil007/Estimate_Alpha_PU_Learning.git
+cd Estimate_Alpha_PU_Learning
 ```
 
 ### 2. Install Python Dependencies
